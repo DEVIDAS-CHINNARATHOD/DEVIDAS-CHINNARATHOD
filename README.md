@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/devidas_chinnarathod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devidas_chinnarathod" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devidas_chinnarathod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devidas_chinnarathod" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/devidas-chinnarathod-ba0a222ba/](https://www.linkedin.com/in/devidas-chinnarathod-ba0a222ba/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devidas_chinnarathod" height="30" width="40" /></a>
 <a href="https://instagram.com/devidas_25a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devidas_25a" height="30" width="40" /></a>
 </p>
 
