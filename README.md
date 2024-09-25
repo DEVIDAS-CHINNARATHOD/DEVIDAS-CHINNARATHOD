@@ -1,10 +1,7 @@
 ![logo](https://github.com/DEVIDAS-CHINNARATHOD/DEVIDAS-CHINNARATHOD/blob/3af2ecf99d54550c309ac00d53cbf81b9139351c/Logo%20photo.jpg)
 
-<h1 align="center">Hi 👋, I'm DEVIDAS CHINNARATHOD</h1>
+<h1 align="center">Hey, I'm DEVIDAS CHINNARATHOD</h1>
 <h3 align="center">Future Software Developer</h3>
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=devidas-chinnarathod&label=Profile%20views&color=0e75b6&style=flat" alt="devidas-chinnarathod" />
 </p>
