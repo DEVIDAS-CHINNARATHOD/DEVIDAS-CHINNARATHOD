@@ -13,7 +13,7 @@
 </p>
 
 - 🌱 I’m currently learning **Cybersecurity**
-- 👨‍💻 All of my projects are available at [#](#)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/DEVIDAS-CHINNARATHOD)
 - 📫 How to reach me: **devidaschinnarathod.25@gmail.com**
 - ⚡ Fun fact: **I am an entrepreneur**
 
