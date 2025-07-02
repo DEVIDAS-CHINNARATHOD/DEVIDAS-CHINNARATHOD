@@ -86,7 +86,7 @@ Hey there! I’m **Devidas Chinnarathod**, a passionate tech enthusiast and aspi
    <img src="https://github-readme-streak-stats-eight.vercel.app?user=devidas-chinnarathod&theme=radical" alt="GitHub Streak" />
 </div>
   
-  ### Game
+  ### GitHub Game
 <p align="center">
   <img src="https://raw.githubusercontent.com/DEVIDAS-CHINNARATHOD/DEVIDAS-CHINNARATHOD/output/snake.svg" />
 </p>
