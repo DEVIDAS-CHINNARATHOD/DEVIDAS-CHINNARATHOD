@@ -83,10 +83,9 @@ Hey there! I’m **Devidas Chinnarathod**, a passionate tech enthusiast and aspi
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devidas-chinnarathod&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devidas-chinnarathod&layout=compact&theme=radical" />
+   <img src="https://github-readme-streak-stats-eight.vercel.app?user=devidas-chinnarathod&theme=radical" alt="GitHub Streak" />
 </div>
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=devidas-chinnarathod&theme=radical" alt="GitHub Streak" />
-</p>
+
 
 
 ---
