@@ -76,7 +76,7 @@ Hey there! I’m **Devidas Chinnarathod**, a passionate tech enthusiast and aspi
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devidas-chinnarathod&theme=gruvbox&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=devidas-chinnarathod&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=6" />
 </p>
 
 ### 📊 GitHub Stats
